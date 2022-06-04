@@ -12,3 +12,6 @@ My strengths: desire to learn, a little experience in learning CSS and HTML.
 return a * b;
 }
 ```
+### My background:
+I have no background in programming. My main specialty is a lawyer.
+My level of English is approximately A2.
