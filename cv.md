@@ -3,6 +3,7 @@
 - <andreev.sere@yandex.ru>
 - +79526418000
 - Perm, Russia
+
 ### About me:
 I want to gain new knowledge and prove myself well in order to expand the range of specialties in which I could develop.
 My strengths: desire to learn, a little experience in learning CSS and HTML.
